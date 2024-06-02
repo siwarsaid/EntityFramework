@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\siwar\\Entity Framework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FAB2A5C-973A-4B59-89D9-DF6879C32CA7}|Entity Framework\\Entity Framework.csproj|d:\\siwar\\entity framework\\entity framework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FAB2A5C-973A-4B59-89D9-DF6879C32CA7}|Entity Framework\\Entity Framework.csproj|solutionrelative:entity framework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FAB2A5C-973A-4B59-89D9-DF6879C32CA7}|Entity Framework\\Entity Framework.csproj|d:\\siwar\\entity framework\\entity framework\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FAB2A5C-973A-4B59-89D9-DF6879C32CA7}|Entity Framework\\Entity Framework.csproj|solutionrelative:entity framework\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FAB2A5C-973A-4B59-89D9-DF6879C32CA7}|Entity Framework\\Entity Framework.csproj|d:\\siwar\\entity framework\\entity framework\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FAB2A5C-973A-4B59-89D9-DF6879C32CA7}|Entity Framework\\Entity Framework.csproj|solutionrelative:entity framework\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FAB2A5C-973A-4B59-89D9-DF6879C32CA7}|Entity Framework\\Entity Framework.csproj|d:\\siwar\\entity framework\\entity framework\\savingcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FAB2A5C-973A-4B59-89D9-DF6879C32CA7}|Entity Framework\\Entity Framework.csproj|solutionrelative:entity framework\\savingcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FAB2A5C-973A-4B59-89D9-DF6879C32CA7}|Entity Framework\\Entity Framework.csproj|d:\\siwar\\entity framework\\entity framework\\accountcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FAB2A5C-973A-4B59-89D9-DF6879C32CA7}|Entity Framework\\Entity Framework.csproj|solutionrelative:entity framework\\accountcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountContext.cs",
+              "DocumentMoniker": "D:\\siwar\\Entity Framework\\Entity Framework\\AccountContext.cs",
+              "RelativeDocumentMoniker": "Entity Framework\\AccountContext.cs",
+              "ToolTip": "D:\\siwar\\Entity Framework\\Entity Framework\\AccountContext.cs",
+              "RelativeToolTip": "Entity Framework\\AccountContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:29:42.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SavingCalculator.cs",
+              "DocumentMoniker": "D:\\siwar\\Entity Framework\\Entity Framework\\SavingCalculator.cs",
+              "RelativeDocumentMoniker": "Entity Framework\\SavingCalculator.cs",
+              "ToolTip": "D:\\siwar\\Entity Framework\\Entity Framework\\SavingCalculator.cs",
+              "RelativeToolTip": "Entity Framework\\SavingCalculator.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:26:40.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\siwar\\Entity Framework\\Entity Framework\\Person.cs",
+              "RelativeDocumentMoniker": "Entity Framework\\Person.cs",
+              "ToolTip": "D:\\siwar\\Entity Framework\\Entity Framework\\Person.cs",
+              "RelativeToolTip": "Entity Framework\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:25:23.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SavingAccount.cs",
+              "DocumentMoniker": "D:\\siwar\\Entity Framework\\Entity Framework\\SavingAccount.cs",
+              "RelativeDocumentMoniker": "Entity Framework\\SavingAccount.cs",
+              "ToolTip": "D:\\siwar\\Entity Framework\\Entity Framework\\SavingAccount.cs",
+              "RelativeToolTip": "Entity Framework\\SavingAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:22:54.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\siwar\\Entity Framework\\Entity Framework\\Program.cs",
+              "RelativeDocumentMoniker": "Entity Framework\\Program.cs",
+              "ToolTip": "D:\\siwar\\Entity Framework\\Entity Framework\\Program.cs",
+              "RelativeToolTip": "Entity Framework\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:21:27.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
